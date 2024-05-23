@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  SC Evo Complete Extension 1.0 patch notes
+title:  星际争霸：进化完成 扩展MOD 1.0 补丁发布
 description: Several balance changes and new Models!
 date:   2024-05-13 00:01:35 +0000
 image:  '/images/EvoExtension1_0.png'
@@ -8,7 +8,7 @@ tags:   [Extension, Update]
 featured: true
 ---
 
-## Evo Complete Extension Release 1.0
+##  星际争霸：进化完成 扩展MOD 1.0 补丁发布
 
 Hey everyone, we've been working hard for a while along with our advisors to create this update which aims at closing the gap in balance between BW and SC2 races, this update most notable contains buffs to improve the game tempo of BW races as well as changes to Explosive and Concussive weapons to improve their performance, particularly in BW vs SC2 Scenarios.
 
