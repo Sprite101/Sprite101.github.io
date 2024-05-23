@@ -10,18 +10,17 @@ featured: true
 
 ##  星际争霸：进化完成 扩展MOD 1.0 补丁发布
 
-Hey everyone, we've been working hard for a while along with our advisors to create this update which aims at closing the gap in balance between BW and SC2 races, this update most notable contains buffs to improve the game tempo of BW races as well as changes to Explosive and Concussive weapons to improve their performance, particularly in BW vs SC2 Scenarios.
+大家好，我们与顾问一起努力创建此更新，旨在缩小 BW 和 SC2 比赛之间的平衡差距，此更新最引人注目的是还包含提高 BW 比赛的游戏节奏的增益效果 对爆炸性武器和震荡性武器进行更改以提高其性能，特别是在 BW 与 SC2 场景中。
 
-Along with this update we've also added several new models that the team has been working hard to get out the door. A series of minor updates to the core of the mods will be deployed to continue to make adjustments to the art as well as add new models eventually.
+除了这次更新之外，我们还添加了团队一直在努力推出的几个新模型。 将部署对模组核心的一系列小更新，以继续对美术进行调整并最终添加新模型。
 
-If you want to support our continued development or help us fund new models you can do so by donating to our Paypal
+如果您想支持我们的持续发展或帮助我们资助新模型，您可以通过向我们的 Paypal 捐款来实现
 
 <a href="https://paypal.me/KopruluKat/"><img src="{{site.baseurl}}/images/blue.png" width="210" height="40"></a> 
 
-**_All the money raised is going directly to our modellers and data engineers._**
+**_筹集到的所有资金将直接交给我们的建模师和数据工程师。_**
 
-Finally from the Dev team we'd like to wish the best to all the players participating in the Supermatch and GL HF, we'll be eagerly awaiting the event's date. Without further ado here are the patch notes.
-
+最后，我们希望开发团队祝愿所有参加 Supermatch 和 GL HF 的玩家一切顺利，我们将热切地等待活动的日期。 话不多说，这里是补丁说明。
 ***
 
 ![]({{site.baseurl}}/images/Divider_Extension.png)
