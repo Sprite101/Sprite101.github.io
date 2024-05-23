@@ -21,7 +21,7 @@ featured: true
 **_筹集到的所有资金将直接交给团队建模师和数据工程师。_**
 
 最后，我们开发团队衷心祝愿所有参加超级赛的选手一切顺利，GL HF！我们都热切期盼着比赛的到来。话不多说，以下是补丁说明。
-***
+
 
 ![]({{site.baseurl}}/images/Divider_Extension.png)
 
@@ -79,7 +79,7 @@ featured: true
 ### <img src="{{site.baseurl}}/images/btn-unit-protoss-hightemplar@scbw.png" width="50" height="50"> 高阶圣堂武士
 
 * 建造时间从45秒下调到42秒
-* “灵能风暴”冷却时间从3秒下调到2秒Reduced Psionic Storm cooldown 3 -> 2
+* “灵能风暴”冷却时间从3秒下调到2秒
 * “灵能风暴”升级的消耗从200/200下调到175/175，研究时间从110秒下调到100秒
 * BW与SC2高阶圣堂武士的“悬浮”标签被移除
   
