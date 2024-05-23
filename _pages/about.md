@@ -7,29 +7,29 @@ image: '/images/bannerLarge.jpg'
 
 ![]({{site.baseurl}}/images/KopruluLogoProject.png)
 
-Hi, We're Team Koprulu a group of modders working to create the highest quality StarCraft content that we're able to make. We currently have our sights set on recreating the entirety of StarCraft 1 and it's campaigns in the StarCraft 2 Engine.
+你好，我们是Team Koprulu团队，正在尽全力创作最高质量的星际争霸内容。目前，我们的精力集中在使用《星际争霸2》的引擎重现完整的《星际争霸》内容及战役。.
 
-Our most popular mod at the moment is **SC: Evo Complete** a mod that puts the BroodWar and Starcraft 2 races together, all while making several balance adjustments to put them on an even playing field but keeping the essence and feel of the originals as intact as possible.
+现在，我们最成功的MOD是**SC: Evo Complete**，让《星际争霸：母巢之战》和《星际争霸2》的种族得以同场竞技，并进行了少量的平衡性调整，让游戏更加公平，同时又尽量保留了原汁原味的原版特征。
 
-You can play this mod on any region on any map by going to the **Custom** Tab on StarCraft 2, select the **Melee** mode, choose any map of your liking and clicking on the **Create with Mod Button**, finally search for the mod named SC: **Evo complete** and enjoy!
+你可以在任何服务器的任意一张地图上游玩该MOD！只需要前往《星际争霸2》的**自定义**页面，选择**对战**模式，任选一张喜爱的地图，点击**使用扩展MOD创建游戏**按钮, 并搜索SC: **Evo complete**，就可以开始体验了！
 
-At this time we're even including two additional spinoff projects:
-* The Legacy mod, a total conversion that completely replaces the sc2 races with their BroodWar counterparts recreating all the original mechanics and unit stats.
-* The Crossover Mod a mod that introduces some different balance changes as well as adding new upgrades and units.
+目前，我们还有两个额外项目：
+* Legacy模组：完全忠于《星际争霸：母巢之战》的复刻内容，所有机制和数据均与原版一致。
+* Crossover模组：引入了新的升级、单位以及完全不同的平衡性改动。
 
-Our Campaign offering which is currently under development will include new Units, Abilities, Upgrades, Heroes, a brand new Progression System, Redesigned Missions and Terrains as well as a host of new features and changes to the Campaigns, You can download the Demo in our Mapster Page. 
+我们目前正在开发的战役内容将包括新的单位、技能、升级、英雄、全新的进度系统、重新设计的任务和地形以一系列新功能和改动。您可以在我们的网站中下载试玩内容。
 
-We'd like for people to join us in our journey as we work to deliver the Ultimate BroodWar Remake.
+我们诚挚地邀请您加入我们的旅程，共同打造母巢之战的终极重制版。
 
 <iframe src="https://www.youtube.com/embed/fjIEpeKHqSk?si=OiLK8TTFEoipDjAX" frameborder="0" allowfullscreen></iframe>
 
 
 
 
-You can help us fund the Project's Models by Donating to our Paypal
+如果您想支持项目的进一步开发、帮助我们订做新的模型，您可以向我们的Paypal捐款。
 <a href="https://paypal.me/KopruluKat/"><img src="{{site.baseurl}}/images/blue.png" width="210" height="40"></a> 
 
-**_All the money received goes directly to the Modellers and Data Engineers._**
+**_筹集到的所有资金将直接交给团队建模师和数据工程师。_**
 
-_This site is still under construction and all articles are subject to change_
+_该网站还在建设中，所有文章均可被改动_
 <hr>
