@@ -124,12 +124,12 @@ featured: true
 * 幼虫生成延迟从13秒上调到14秒
 * 修复了无法在孵化场中研究“潜地”科技的错误 __(Core)__
 
-### <img src="{{site.baseurl}}/images/btn-unit-zerg-ZerglingSCBW.png" width="50" height="50"> Zergling
+### <img src="{{site.baseurl}}/images/btn-unit-zerg-ZerglingSCBW.png" width="50" height="50"> 跳虫
 
 * 武器间隔从0.5秒上调到0.6秒
 * “肾上腺体”升级提供的武器攻击速度倍率从0.33上调到0.45
 
-### <img src="{{site.baseurl}}/images/btn-unit-zerg-hydralisk@scbw.png" width="50" height="50"> Hydralisk
+### <img src="{{site.baseurl}}/images/btn-unit-zerg-hydralisk@scbw.png" width="50" height="50"> 刺蛇
 
 * 武器射程从5点下调到4点
 * “深槽脊刺”升级提供的射程加成从1点上调到2点
