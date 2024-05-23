@@ -185,6 +185,6 @@ featured: true
 
 ***
 
-Credits: 
+鸣谢： 
 
-_New Plague Texture by: Nyanpie_
+_新的瘟疫纹理，提供者：Nyanpie_
