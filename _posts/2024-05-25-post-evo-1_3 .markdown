@@ -1,0 +1,122 @@
+---
+layout: post
+title:  星际争霸：进化完成 扩展MOD 1.3补丁更新说明
+description: 少量平衡性改动与大量错误修复
+date:   2024-05-24 00:21:35 +0600
+image:  '/images/EvoExtension1_3.png'
+tags:   [扩展MOD，更新]
+featured: true
+---
+
+## 进化完成 扩展MOD 1.3补丁更新说明
+
+大家好，本次更新内容不多，旨在修复部分错误、更新视觉效果，并添加一些新功能。考虑到这次更新距离比赛时间太近，平衡性改动的上线暂缓。
+
+在下一次更新中，我们将会上线一个PTR MOD，以测试一些重大改动。
+
+另外，由于我们对1.0补丁中添加的新模型进行进一步完善，如为其配置对应的死亡模型、变种以及动画，所以接下来暂时不会继续添加新模型。下面是对一些即将推出内容的小小剧透。
+
+<div class="gallery-box">
+  <div class="gallery">
+    <img src="{{site.baseurl}}/images/teaser-queennest.png">
+    <img src="{{site.baseurl}}/images/teaser-sciencevessel.png">
+  </div>
+  <em>即将更新的新模型！</em>
+</div>
+
+我们将在另一篇博文中讨论此后更新的内容。
+
+不要忘了，您也可以通过赞助参与到项目的开发中来。您的赞助将极大加快我们制作新模型的速度。您可以通过PayPal
+
+<a href="https://paypal.me/KopruluKat/"><img src="{{site.baseurl}}/images/blue.png" width="210" height="40"></a> 
+
+或我们新上线的Patreon账户
+
+<a href="https://www.patreon.com/TeamKopruluSC2"><img src="{{site.baseurl}}/images/becomeAPatronBanner.png" width="211" height="70"></a> 
+
+赞助我们!
+
+***
+
+***由于Tasteless表演赛的缘故，本次更新在亚服暂缓，更新内容在PTR可用***
+
+![]({{site.baseurl}}/images/Divider_Extension.png)
+
+为方便其他MOD作者使用，多人对战数据已从原进化完成MOD分离。该依赖项现在名叫SCEvo_Multi，无任何额外内容添加，包含所有SC: Evo平衡性数据。
+
+![]({{site.baseurl}}/images/Divider_Terran.png)
+
+- 更新了“辐照”的视觉效果
+
+### <img src="{{site.baseurl}}/images/btn-unit-terran-vulture@scbw.png" width="50" height="50"> Vulture
+
+- 秃鹫的武器攻击间隔从1.6875秒上调到1.875秒
+- 在恰当的操作下，秃鹫可以在攻击时保留其移动速度（还原了星际1中的甩尾机制）！（特别鸣谢：Bommes）
+
+***
+
+![]({{site.baseurl}}/images/Divider_Protoss.png)
+
+- 更新了海盗船的攻击特效与音效，以匹配星际1原始内容
+- 高阶圣堂武士模型尺寸缩小20%
+- 金甲虫移动速度从9下调到8
+- 金甲虫爆炸特效不再有屏幕闪烁的效果
+- “精神控制”无法以遭到“神经寄生”的单位为目标
+- 修复了遭到“精神控制”的单位不会继承原敌方玩家研发科技的错误
+- 修复了“精神控制”会移除目标单位上所有行为的错误
+
+***
+
+![]({{site.baseurl}}/images/Divider_Zerg.png)
+
+- 雷兽的单位半径从0.75上调到0.8125（与建筑的互动不受影响）
+- 略微增大雷兽的模型尺寸
+
+***
+
+### Bug fixes & changes
+- 修复了机械车间使用错误纹理的问题
+- 修复了幽灵无法取消聚变打击的问题
+- 修复了折跃中的护盾电池缺失取消按钮的问题
+- 修复了潜隐集群炮塔会始终跟随被击杀单位的问题
+- 修复了单位遭到爆蚊攻击时不会为玩家发出警报的问题
+- 修复了虫穴和主巢孵化时的动画问题
+- 修复了孢子集群缺失目标音效的问题
+- 修复了孢子集群缺失伤害引用的问题
+- 为侦察机、海盗船和瓦格雷战机添加了移动音效
+- 为狂热者添加了新的死亡音效
+- 添加了更新后的孵化场死亡模型
+
+***
+
+![]({{site.baseurl}}/images/Divider_Legacy.png)
+
+- 修正了孵化场/虫穴/主巢提供的补给值（从2到1）
+
+***
+鸣谢： 
+
+_秃鹫移动攻击：Bommes_
+
+_封面来源：Rosebudio_
+
+***
+下面列出了未在博文里列举出来的此前几次热修复的内容。
+
+## Evo Complete Extension Update 1.1
+
+- 加入了简体中文本地化内容
+- 加入了韩语本地化内容
+- 修复了APM不会在非英语语言下显示的错误
+
+## Evo Complete Extension Update 1.2
+
+- 修复了异龙弹射攻击造成伤害比预期高的错误
+- 修复了瓦格雷战机攻击射程的错误
+- 更新了雷兽的动画与纹理
+- Updated Scarab's Visuals
+- Updated Corsair Model
+- Updated Carrier Model/Textures
+- Added Bunker Model
+- Adjusted Irradiate low quality visuals
+- Updated Zerg Town Building Death Models
