@@ -48,7 +48,7 @@ featured: true
 
 - 更新了“辐照”的视觉效果
 
-### <img src="{{site.baseurl}}/images/btn-unit-terran-vulture@scbw.png" width="50" height="50"> Vulture
+### <img src="{{site.baseurl}}/images/btn-unit-terran-vulture@scbw.png" width="50" height="50"> 秃鹫
 
 - 秃鹫的武器攻击间隔从1.6875秒上调到1.875秒
 - 在恰当的操作下，秃鹫可以在攻击时保留其移动速度（还原了星际1中的甩尾机制）！（特别鸣谢：Bommes）
@@ -74,7 +74,7 @@ featured: true
 
 ***
 
-### Bug fixes & changes
+### 错误修复与改动
 - 修复了机械车间使用错误纹理的问题
 - 修复了幽灵无法取消聚变打击的问题
 - 修复了折跃中的护盾电池缺失取消按钮的问题
