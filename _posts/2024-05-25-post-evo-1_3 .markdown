@@ -103,20 +103,20 @@ _封面来源：Rosebudio_
 ***
 下面列出了未在博文里列举出来的此前几次热修复的内容。
 
-## Evo Complete Extension Update 1.1
+## 进化完成 扩展MOD 1.1补丁更新说明
 
 - 加入了简体中文本地化内容
 - 加入了韩语本地化内容
 - 修复了APM不会在非英语语言下显示的错误
 
-## Evo Complete Extension Update 1.2
+## 进化完成 扩展MOD 1.2补丁更新说明
 
 - 修复了异龙弹射攻击造成伤害比预期高的错误
 - 修复了瓦格雷战机攻击射程的错误
 - 更新了雷兽的动画与纹理
-- Updated Scarab's Visuals
-- Updated Corsair Model
-- Updated Carrier Model/Textures
-- Added Bunker Model
-- Adjusted Irradiate low quality visuals
-- Updated Zerg Town Building Death Models
+- 更新了金甲虫的视觉效果
+- 更新了海盗船的模型
+- 更新了航母的模型与纹理
+- 添加了地堡的模型
+- 调准了“辐照”在低画质下的视觉效果
+- 更新了异虫基地的死亡模型
