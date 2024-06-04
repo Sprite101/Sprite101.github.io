@@ -5,7 +5,7 @@ description: 平衡性改动与新模型上线了！
 date:   2024-05-13 00:01:35 +0000
 image:  '/images/EvoExtension1_0.png'
 tags:   [Extension, Update]
-featured: true
+featured: false
 ---
 
 ##  星际争霸：进化完成 扩展MOD 1.0 补丁发布
