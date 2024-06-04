@@ -4,7 +4,7 @@ title:  星际争霸：进化完成 扩展MOD 1.4补丁更新说明
 description: 部分错误修复与新模型！
 date:   2024-06-01 00:21:35 +0600
 image:  '/images/EvoExtension1_4.png'
-tags:   [Extension, Update]
+tags:   [扩展MOD，更新]
 featured: true
 ---
 
@@ -69,8 +69,8 @@ featured: true
 
 ### <img src="{{site.baseurl}}/images/btn-unit-protoss-darkarchon.png" width="50" height="50"> 黑暗执政官
 
-- Corrected units under the effects of Mind Control still costing supplies
-- Fixed an issue causing units affected by Maelstrom to still be picked up by Transports
+- 修复了遭到黑暗执政官“精神控制”的单位依旧消耗补给的错误
+- 修复了受到“大漩涡”影响的单位可以被运输单位装载的错误
 
 ***
 
@@ -106,8 +106,8 @@ featured: true
 - 为静滞场添加了目标体积
 
 ***
-Credits: 
+鸣谢 
 
-_Kailniris for vulture moving shot_
+_特此感谢Kailniris的护盾电池模型_
 
 ***
