@@ -1,72 +1,73 @@
 ---
 layout: post
-title:  SC Evo Complete Extension 1.4 patch notes
-description: Minor Bugfixes and New Models!
+title:  星际争霸：进化完成 扩展MOD 1.4补丁更新说明
+description: 部分错误修复与新模型！
 date:   2024-06-01 00:21:35 +0600
 image:  '/images/EvoExtension1_4.png'
 tags:   [Extension, Update]
 featured: true
 ---
 
-## Evo Complete Extension Update 1.4
+## 进化完成 扩展MOD 1.3补丁更新说明
 
-Hey everyone we got a minor update to fix some bugs, visual issues as well as add some features and update some visuals. This update does not contain the balance patch coming from the PTR as it has been delayed since it's still undergoing testing, in the meantime this update will fix a couple bugs and adjust some interactions between BroodWar and StarCraft 2 Spells
+嗨，大家好！本次更新已经上线，旨在修复已知错误、更新视觉效果和推送新功能。由于PTR服务器的内容还在测试中，所以本次更新不包括平衡性改动。除此以外，本次更新对星际1和星际2间的一些互动进行了修复和调整。
 
-In this update we've added a couple of new models and effects funded by our Donors, special thanks to @CerberusSC2 for funding the Archon Model also thank you to our recent Donors for funding the new Defiler effects.
+在本次更新中，我们加入了由赞助方支持的数个新的单位和特效模型。在此特别感谢@CerberusSC2对执政官模型的支持，以及近期赞助人对新的蝎虫特效的支持。
 
-*A reminder that you can help us fund development by donating, your donations go toward funding development as well as making new models at a much faster rate.*
+*不要忘了，您也可以通过赞助参与到项目的开发中来。您的赞助将极大加快我们制作新模型的速度。您可以通过PayPal*
 
 <a href="https://paypal.me/KopruluKat/"><img src="{{site.baseurl}}/images/blue.png" width="210" height="40"></a> 
 
-Or in our newly launched Patreon!
+或我们新上线的Patreon账户
 
 <a href="https://www.patreon.com/TeamKopruluSC2"><img src="{{site.baseurl}}/images/becomeAPatronBanner.png" width="211" height="70"></a> 
 
+赞助我们!
 ***
 
 ![]({{site.baseurl}}/images/Divider_Terran.png)
 
-### <img src="{{site.baseurl}}/images/btn-unit-terran-medic.png" width="50" height="50"> Medic
+### <img src="{{site.baseurl}}/images/btn-unit-terran-medic.png" width="50" height="50"> 医疗兵
 
-- Parasitic Bomb can now be properly Restored by Medics
+- 寄生弹现在可以正确地被医疗兵的“恢复”技能移除
 
-*previously Parasitic Bomb would linger at the area where it was restored*
+*此前寄生弹在被恢复后会留在原地*
 
-### <img src="{{site.baseurl}}/images/btn-unit-terran-siegetank-sieged@scbw.png" width="50" height="50"> Siege Tank
+### <img src="{{site.baseurl}}/images/btn-unit-terran-siegetank-sieged@scbw.png" width="50" height="50"> 攻城坦克
 
-- Corrected the 100% damage AoE radius from 0.3125 -> 0.375
+- 修正了100%伤害的溅射范围，从0.3125上调到0.375
 
-### <img src="{{site.baseurl}}/images/btn-unit-terran-valkyrie@scbw.png" width="50" height="50"> Valkyrie
+### <img src="{{site.baseurl}}/images/btn-unit-terran-valkyrie@scbw.png" width="50" height="50"> 瓦格雷战机
 
-- Fixed an issue causing Valkyries to deal double damage to their main target
+- 修复了瓦格雷战机对主目标造成双倍伤害的错误
 
-*previously the Target unit would receive direct damage from the valkyrie plus the AoE damage*
+*此前主目标除了受到直接伤害，还会受到额外的溅射伤害*
 
 
 ***
 
 ![]({{site.baseurl}}/images/Divider_Protoss.png)
 
-### <img src="{{site.baseurl}}/images/btn-building-protoss-shieldbattery@scbw.png" width="50" height="50"> Shield Battery
+### <img src="{{site.baseurl}}/images/btn-building-protoss-shieldbattery@scbw.png" width="50" height="50"> 护盾电池
 
-- Added new Shield Battery Model
+- 添加了新的护盾电池模型
 
 ![]({{site.baseurl}}/images/modelpreview-battery.png)
 
-*Credits to Kailniris for the original model, animations and effects by: Team Koprulu*
+*特此鸣谢原模型、动画和特效的作者：Kailniris*
 
-### <img src="{{site.baseurl}}/images/btn-unit-protoss-archon@scbw.png" width="50" height="50"> Archon
+### <img src="{{site.baseurl}}/images/btn-unit-protoss-archon@scbw.png" width="50" height="50"> 执政官
 
-- Added new Archon Model
+- 添加了新的执政官模型
 
 ![]({{site.baseurl}}/images/modelpreview-archon.png)
 
 
-### <img src="{{site.baseurl}}/images/btn-unit-protoss-arbiter.png" width="50" height="50"> Arbiter
+### <img src="{{site.baseurl}}/images/btn-unit-protoss-arbiter.png" width="50" height="50"> 仲裁者
 
-- Stasis field can now stop Phased Units
+- 静滞场现在可以停止正在进行相位的单位
 
-### <img src="{{site.baseurl}}/images/btn-unit-protoss-darkarchon.png" width="50" height="50"> Dark Archon
+### <img src="{{site.baseurl}}/images/btn-unit-protoss-darkarchon.png" width="50" height="50"> 黑暗执政官
 
 - Corrected units under the effects of Mind Control still costing supplies
 - Fixed an issue causing units affected by Maelstrom to still be picked up by Transports
@@ -75,34 +76,34 @@ Or in our newly launched Patreon!
 
 ![]({{site.baseurl}}/images/Divider_Zerg.png)
 
-### <img src="{{site.baseurl}}/images/btn-unit-zerg-defiler@scbw.png" width="50" height="50"> Defiler
+### <img src="{{site.baseurl}}/images/btn-unit-zerg-defiler@scbw.png" width="50" height="50"> 蝎虫
 
-- Added new Dark Swarm Effects
+- 添加了新的“黑暗虫群”特效
 
 ![]({{site.baseurl}}/images/modelpreview-darkswarm.png)
 
-- Added new Plague 
+- 添加了新的“瘟疫”特效
 
 ![]({{site.baseurl}}/images/modelpreview-plague.png)
 
-- Increased Consume Range 0.1 -> 0.5
-- Corrected Plague not being able to Reveal Cloaked units
+- “吞噬”施放距离从0.1上调到0.5
+- 修正了“瘟疫”无法暴露隐形单位的错误
 
 
 ***
 
-### Bug fixes & changes
+### 错误修复与改动
 
-- Removed an unintended additional player Decal from Zerg Town Buildings
-- Fixed an issue causing Drones affected by Neural Parasite to morph into an enemy building
-- Fixed an issue causing Scourge to not show in the Observer Production panel
-- Fixed several interactions between Reaper's KD8 Charges and BroodWar units
-- Fixed an issue on Bunker Death models causing them to look low poly
-- Updated Mutalisk Textures
-- Updated Bunker Textures
-- Added Overlord Death Model
-- Added Target Volumes to Scourge
-- Added Target Volumes to Stasis Field
+- 移除了异虫基地上意外出现的玩家印花
+- 修复了遭到神经寄生的工蜂可以变异为地方建筑的错误
+- 修复了爆蚊不会在观战者生产界面显示的错误
+- 修复了收割者的KD8炸弹与部分星际1单位的互动
+- 修复了地堡死亡模型会显示为低多边形的错误
+- 更新了异龙的纹理
+- 更新了地堡的纹理
+- 添加了王虫的死亡模型
+- 为爆蚊添加了目标体积（用于检测和反馈击中的特定区域，即发射物和爆裂的显示位置）
+- 为静滞场添加了目标体积
 
 ***
 Credits: 
